@@ -1,5 +1,5 @@
 -- Accept key from script_key variable
-local Script_key = getfenv().script_key or ""
+local Script_key = getfenv().script_key or "LfZkZuuZOCEINFVIaDOBXQCTVKOLPXMiAH"
 
 -- Supported game place IDs
 local supportedPlaceIds = {
