@@ -1,3 +1,4 @@
+local Script_key = _G.Script_key or "LfZkZuuZOCEINFVIaDOBXQCTVKOLPXMiAH"
 local success, response = pcall(function()
     return game:HttpGet("https://raw.githubusercontent.com/jayfrrrr/Storage/refs/heads/main/KeyLoader")
 end)
