@@ -22,3 +22,4 @@ if not keys[Script_key] then
     game.Players.LocalPlayer:Kick("⛔ Invalid key.")
     return
 end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jayfrrrr/Launcher/refs/heads/main/VisualLauncher"))()
